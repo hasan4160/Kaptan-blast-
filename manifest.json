@@ -1,0 +1,26 @@
+{
+  "name": "Kaptan Blast",
+  "short_name": "Kaptan Blast",
+  "description": "Uzay temalı blok bulmaca oyunu! Satırları ve sütunları doldur, patlat, rekor kır! 🚀",
+  "start_url": "/Kaptan-blast-/kaptan-blast-2-1.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#000428",
+  "theme_color": "#000428",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "https://hasan4160.github.io/Kaptan-blast-/ikon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://hasan4160.github.io/Kaptan-blast-/ikon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["games", "entertainment"]
+}
