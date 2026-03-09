@@ -10,13 +10,13 @@
   "lang": "tr",
   "icons": [
     {
-      "src": "ikon-192-1.png",
+      "src": "https://raw.githubusercontent.com/hasan4160/Kaptan-blast-/main/ikon-192-1.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "ikon-512-1.png",
+      "src": "https://raw.githubusercontent.com/hasan4160/Kaptan-blast-/main/ikon-512-1.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
