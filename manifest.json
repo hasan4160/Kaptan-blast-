@@ -10,13 +10,13 @@
   "lang": "tr",
   "icons": [
     {
-      "src": "https://i.imgur.com/FWkXav0.png",
+      "src": "ikon-192-1.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://i.imgur.com/SRJOpiL.png",
+      "src": "ikon-512-1.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
